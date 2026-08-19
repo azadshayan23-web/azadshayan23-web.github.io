@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azadshayan23-web.github.io/sitemap.xml
