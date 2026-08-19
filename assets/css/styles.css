@@ -79,8 +79,8 @@ h1, h2, h3, h4 {
   line-height: 1.16;
 }
 
-h1 { font-size: clamp(2.35rem, 4.6vw, 3.9rem); }
-h2 { font-size: clamp(1.75rem, 3vw, 2.65rem); }
+h1 { font-size: clamp(2rem, 4vw, 3rem); }
+h2 { font-size: clamp(1.5rem, 2.6vw, 2.25rem); }
 h3 { font-size: clamp(1.12rem, 1.7vw, 1.35rem); }
 
 .section-dark h1,
@@ -197,7 +197,7 @@ h3 { font-size: clamp(1.12rem, 1.7vw, 1.35rem); }
   padding: 74px 0;
 }
 
-.hero-copy h1 { max-width: 830px; margin-bottom: 24px; color: #fff; font-size: clamp(3rem, 5vw, 4.4rem); }
+.hero-copy h1 { max-width: 830px; margin-bottom: 24px; color: #fff; font-size: clamp(2.6rem, 4.5vw, 3.5rem); }
 
 .hero-title-line {
   display: block;
